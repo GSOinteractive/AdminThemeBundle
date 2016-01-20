@@ -31,6 +31,6 @@
         "fontawesome"               : "*",
         "ionicons"                  : "*",
         "fullcalendar"              : "*",
-        "adminlte"                  : "1.2.1-bower"
+        "adminlte"                  : "ac69a861ee8f39010b4037311f02bb6453ed4eac"
     }
 }
